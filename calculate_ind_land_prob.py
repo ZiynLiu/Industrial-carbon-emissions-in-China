@@ -2,7 +2,7 @@ import ee
 import geemap
 
 ee.Authenticate()
-ee.Initialize(project="ee-2018901475")
+ee.Initialize(project="")
 
 # Create equal-area grid
 def create_grid(region, scale=800000, crs='EPSG:3857', add_id=True, id_field='grid_id'):
