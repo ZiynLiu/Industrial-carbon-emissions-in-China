@@ -15,3 +15,9 @@ Due to the large size of the dataset, it is shared via a cloud storage link:
 This data is shared by a **Baidu Netdisk Super Member v5**.
 
 If you encounter any issues with the download or need further assistance, feel free to contact the repository maintainers.
+
+### Calculating Industrial Land Probability
+
+The script used for calculating the industrial land probability based on Google Earth Engine (GEE) is included in the repository. You can find the script in the `calculate_ind_land_prob.py` file. This script utilizes various geospatial datasets from GEE to model the industrial land probability, which is a key input for the industrial carbon emissions analysis.
+
+If you encounter any issues with the download or need further assistance, feel free to contact the repository maintainers.
